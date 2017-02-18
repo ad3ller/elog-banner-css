@@ -1,0 +1,43 @@
+.sltab a {
+  background-color:#53ff1a;
+  color:black;
+  padding-left:5px;
+  padding-right:5px;
+}
+
+.sltab {
+  background-color:#53ff1a;
+  color:black;
+  border-left:1px solid #E0E0E0;
+  border-right:1px solid #084070;
+}
+
+.sltab a:visited { color:black; }
+
+.title1 {
+  padding:5px;
+  background-color:#53ff1a;
+  border-bottom:1px solid black;
+  border-left:1px solid #E0E0E0;
+  color:black;
+  font-size:medium;
+  font-family:sans-serif;
+  text-align:left;
+}
+
+.title2 {
+  background-color:#53ff1a;
+  border-bottom:1px solid black;
+  color:black;
+  font-size:medium;
+  font-family:sans-serif;
+  text-align:center;
+}
+
+.title3 {
+  border-bottom:1px solid black;
+  border-right:1px solid black;
+  background-color:#53ff1a;
+  text-align:right;
+  width:100px;
+}

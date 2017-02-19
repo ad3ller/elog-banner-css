@@ -14,7 +14,7 @@ git clone https://github.com/ad3ller/elog-banner-css
 
 To change the banner color for a given logbook to skyblue, add the following to the elog.conf file. 
 ```
-CSS = elog-banner-css/skyblue.css
+CSS = elog-banner-css/css/skyblue.css
 ```
 
 Supported colors:
